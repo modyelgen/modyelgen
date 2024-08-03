@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahmoud Sobhi Awad</h1>
 <h3 align="center">Mobile Application Developer with Flutter</h3>
-img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif">
+<img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/man-coding-imagination-jdx1rumta8zi2763.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modyelgen&label=Profile%20views&color=0e75b6&style=flat" alt="modyelgen" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modyelgen" alt="modyelgen" /></a> </p>
@@ -17,7 +17,7 @@ img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ma
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1N5gsD1xk7hQtd-7OjM8Yr-S8XBcLnDpl/view?usp=drive_link](https://drive.google.com/file/d/1N5gsD1xk7hQtd-7OjM8Yr-S8XBcLnDpl/view?usp=drive_link)
 
-- ⚡ Fun fact **i think i am challengeable**
+- ⚡ real fact **i think i am challengeable**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
