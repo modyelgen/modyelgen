@@ -21,7 +21,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud sobhy awad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud sobhy awad" height="30" width="40" /></a>
+  
+<a href="https://www.linkedin.com/in/mahmoud-sobhy-awad-963b35244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud sobhy awad" height="30" width="40" /></a>
 <a href="https://fb.com/mhamoudsob7i" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mhamoudsob7i" height="30" width="40" /></a>
 </p>
 
