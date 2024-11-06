@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=modyelgen&label=Profile%20views&color=0e75b6&style=flat" alt="modyelgen" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=modyelgen" alt="modyelgen" /></a> </p>
 
-- 🔭 I’m currently working on [Taskaya(To-Do App)](https://github.com/modyelgen/al_hassan_warsha)
+- 🔭 I’m currently working on [Alwarsha(Desktop-App-for-kitchen-workshop-mangment-system)](https://github.com/modyelgen/al_hassan_warsha)
 
 - 🌱 I’m currently learning **mySql, c#, UI&UX**
 
